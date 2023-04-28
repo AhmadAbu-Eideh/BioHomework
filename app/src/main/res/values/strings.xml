@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BioHomework</string>
+    <string name="ahmad_abu_eideh">Ahmad Abu-Eideh</string>
+    <string name="my_bio">My Bio</string>
+    <string name="music_reading_programming">music,reading,programming</string>
+    <string name="add">Add</string>
+</resources>
